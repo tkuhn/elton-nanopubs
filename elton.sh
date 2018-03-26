@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ELTONJAR=/home/tk/Packages/elton/target/elton-*-jar-with-dependencies.jar
+ELTONJAR=/home/tk/Code/elton/target/elton-*-jar-with-dependencies.jar
 
 java -jar $ELTONJAR $@
