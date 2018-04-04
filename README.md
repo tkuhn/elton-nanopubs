@@ -22,3 +22,9 @@ Latest run:
     Index URI: http://purl.org/np/RAKbiK1_wkinVBzd0h3zWS9RIcWkXCdfe5DigO3rA_Ha8
     5267 nanopubs generated for globalbioticinteractions/Catalogue-of-Afrotropical-Bees
     Index URI: http://purl.org/np/RAbSgi3M7slxO5VVFwgxvY6h6DFwb-g3_j5gOPwoDZORA
+    14961 nanopubs generated for globalbioticinteractions/raymond
+    Index URI: http://purl.org/np/RAM5zwEIpFtSzJu1Ag3eIBHffL72egjXMaTZM3uo1tGJs
+    
+    $ ./mk-topindex.sh
+    Index URI: http://purl.org/np/RAEJo_qO83uylNPddFmUWL6M714QIPyu-yIgVoi1_z-is
+
