@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+# Subindexes need to be added to this script manually!
 
 np mkindex \
   -o nanopubs/topindex.trig.gz \
@@ -7,8 +9,8 @@ np mkindex \
   -a https://www.globalbioticinteractions.org \
   -a https://github.com/globalbioticinteractions/elton \
   -c 0000-0003-3138-4118 \
-  -s http://purl.org/np/RA5PcuTm5GglrhEMZjZb5_cMD6RUpY6gq_Fv53m9cGTB \
-  -s http://purl.org/np/RAHoV6-xgAcIMr4UvFPlpNpSeIh9QQNbaLLDaisz0TAe8 \
-  -s http://purl.org/np/RAKbiK1_wkinVBzd0h3zWS9RIcWkXCdfe5DigO3rA_Ha8 \
-  -s http://purl.org/np/RAbSgi3M7slxO5VVFwgxvY6h6DFwb-g3_j5gOPwoDZORA \
-  -s http://purl.org/np/RAM5zwEIpFtSzJu1Ag3eIBHffL72egjXMaTZM3uo1tGJs
+  -s http://purl.org/np/RAf8SwAtE51Q8ZUn0f2VoinFPlxj5h9WIIxMSWjDCLHVw \
+  -s http://purl.org/np/RA3evbIf5lh5ZM7rnX9CAvfmZtkVFw__KCXLByR5dQkbQ \
+  -s http://purl.org/np/RAO3tQt2Hg2rbbroMSZFyCKUi_uTxeeMjNijkC-4DKteo \
+  -s http://purl.org/np/RAIW-kUqvdYwQgcj9leWpys3c758PR9JS4AxZbXWXCXKE \
+  -s http://purl.org/np/RAdBmj3YeUUy6CwMTFZPPX2ezaQTOt5CqLMS331cJP2W0

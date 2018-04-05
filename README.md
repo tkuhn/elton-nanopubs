@@ -14,17 +14,17 @@ Datasets for version 1 of elton nanopub collection:
 Latest run:
 
     $ ./mk-datasets-v1.sh
-    25980 nanopubs generated for hurlbertlab/dietdatabase
-    Index URI: http://purl.org/np/RA5PcuTm5GglrhEMZjZb5_cMD6RUpY6gq_Fv53m9cGTBE
+    25962 nanopubs generated for hurlbertlab/dietdatabase
+    Index URI: http://purl.org/np/RAf8SwAtE51Q8ZUn0f2VoinFPlxj5h9WIIxMSWjDCLHVw
     3430 nanopubs generated for globalbioticinteractions/aps-turfgrasses
-    Index URI: http://purl.org/np/RAHoV6-xgAcIMr4UvFPlpNpSeIh9QQNbaLLDaisz0TAe8
+    Index URI: http://purl.org/np/RA3evbIf5lh5ZM7rnX9CAvfmZtkVFw__KCXLByR5dQkbQ
     29882 nanopubs generated for globalbioticinteractions/inaturalist
-    Index URI: http://purl.org/np/RAKbiK1_wkinVBzd0h3zWS9RIcWkXCdfe5DigO3rA_Ha8
+    Index URI: http://purl.org/np/RAO3tQt2Hg2rbbroMSZFyCKUi_uTxeeMjNijkC-4DKteo
     5267 nanopubs generated for globalbioticinteractions/Catalogue-of-Afrotropical-Bees
-    Index URI: http://purl.org/np/RAbSgi3M7slxO5VVFwgxvY6h6DFwb-g3_j5gOPwoDZORA
+    Index URI: http://purl.org/np/RAIW-kUqvdYwQgcj9leWpys3c758PR9JS4AxZbXWXCXKE
     14961 nanopubs generated for globalbioticinteractions/raymond
-    Index URI: http://purl.org/np/RAM5zwEIpFtSzJu1Ag3eIBHffL72egjXMaTZM3uo1tGJs
+    Index URI: http://purl.org/np/RAdBmj3YeUUy6CwMTFZPPX2ezaQTOt5CqLMS331cJP2W0
     
     $ ./mk-topindex.sh
-    Index URI: http://purl.org/np/RAEJo_qO83uylNPddFmUWL6M714QIPyu-yIgVoi1_z-is
+    Index URI: http://purl.org/np/RARgSSH931OncISJBf7NAzZAnCxg_416-pZZIBKhYz9Tg
 
